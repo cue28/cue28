@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![react](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black)
+Tech
+![react](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat& style = flat-square) ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black& style = flat-square)
 
 <!--
 **cue28/cue28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
