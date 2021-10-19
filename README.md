@@ -1,8 +1,12 @@
-### Siyoon Jeon / ISFP
+## Siyoon Jeon / Front-end developer
+<br/>
 
-Front-end developer
+- 소소한 배려로 느낌표를 찍게 하는 사람이 되고 싶습니다. 🙂
+- ⭐️ 좋은 태도를 가진 사람은 타인에게 영감을 준다고 생각합니다. 좋은 태도를 가지려 애쓰고, 그런 사람의 태도를 배우려고 노력합니다.
+- 사소한 것이 언제나 더 중요하다고 생각합니다. 아무리 사소한 경험이라도, 모든 경험에서 📖 배우며, 🚀 성장합니다.
+- 🍷 좋아하는 사람들과 🍖 맛있는 음식 먹는 걸 좋아합니다.
 
-  ### Tech🛠
+#### Tech🛠
   <div>
 
 ![react](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat&style=flat-square) ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white) ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=Sass&logoColor=white)  ![typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white) 	
