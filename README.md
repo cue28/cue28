@@ -1,4 +1,4 @@
-## Siyoon Jeon / Front-end developer
+## Siyoon Jeon / FE developer
 
 - 소소한 배려로 느낌표를 찍게 하는 사람이 되고 싶습니다. 🙂
 - ⭐️ 좋은 태도를 가진 사람은 타인에게 영감을 준다고 생각합니다. 좋은 태도를 가지려 애쓰고, 그런 사람의 태도를 배우려고 노력합니다.
