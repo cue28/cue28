@@ -1,5 +1,3 @@
-## Siyoon Jeon / FE developer
-
 #### Tech🛠
   <div>
 
